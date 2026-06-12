@@ -1,3 +1,0 @@
-
-username = "YOURSMAIL"
-password = 'YOURSPASSWORD'
